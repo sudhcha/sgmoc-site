@@ -1,6 +1,7 @@
 ---
 blog_root: /blog_posts
-site_title: My Blog
+site_title: St. Gregorios Malankara Orthodox Church
+template_url: https://github.com/telegr-am/template-blue.git
 
 ---
 
