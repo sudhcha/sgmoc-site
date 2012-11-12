@@ -1,6 +1,6 @@
 ---
 blog_root: /blog_posts
-site_title: St. Gregorios Malankara Orthodox Church
+site_title: St. Gregorios Malankara Orthodox Church, Cleveland, Ohio
 template_url: https://github.com/telegr-am/template-blue.git
 
 ---
