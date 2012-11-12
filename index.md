@@ -1,7 +1,6 @@
 ## Welcome
 
-Welcome to your new Telegram site.  Check out the [Getting Started](/getting_started) page
-for information on how to set up your site.
+This is a sandbox site for our church website.  Check out the [Current Website](http://www.stgregorioscleveland.org/).
 
 <span data-lift="if?extra_true=has_blog">Welcome to my blog.  Here are my most recent blog posts:</span>
 
